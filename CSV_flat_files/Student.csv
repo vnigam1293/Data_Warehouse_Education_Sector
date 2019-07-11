@@ -1,0 +1,11 @@
+Student_ID,Last_Name,First_Name,Address,City,Gender,Email,Country
+1,Siingh,Ammen,abc St,Syracuse,1,as@syr.edu,India
+2,Strait,Anna,def St,Syracuse,0,as1@syr.edu,USA
+3,Doe,Jane,ghi St,Syracuse,0,jd@syr.edu,USA
+4,Nigam,Vaibhav,103 Victoria Pl,Syracuse,1,vn@syr.edu,India
+5,Lulla,Pranay,504 Greenwood Pl,Syracuse,1,pl@syr.edu,India
+6,Godha,Romil,504 Greenwood Pl,Syracuse,1,rg@syr.edu,India
+7,Takrani,Harsh,504 Greenwood Pl,Syracuse,1,ht@syr.edu,India
+8,Bhatia,Shubham,103 Victoria Pl,Syracuse,1,sb@syr.edu,India
+9,Sharma,Rajesh,103 Victoria Pl,Syracuse,1,rs@syr.edu,India
+10,Khan,Tosif,jkl St,Delhi,1,tk@gmail.com,India
